@@ -1,9 +1,16 @@
-# EPIC 1 - Autenticação
+# EPIC 1 - Chat
 
-# EPIC 2 - Chat
+CHAT-001 - Create Conversation
+As a user, I want to create a new conversation so that I can start a new chat session.
 
-# EPIC 3 - Memória
+CHAT-002 - List Conversations
+As a user, I want to view my conversations so that I can acess previous chats.
 
-# EPIC 4 - Tarefas
+CHAT-003 - Send Message
+As a user, I want to send a message so that I can interact with the assistant.
 
-# EPIC 5 - Dashboard
+CHAT-004 - Create conversation
+As a user, I want to receive an AI-generated response so that I can obtain information or assistance.
+
+CHAT-005 - List conversations
+As a user, I want to view the message history of a conversation so that I can keep context during the interaction.
